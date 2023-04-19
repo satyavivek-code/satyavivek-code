@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyavivek-code
-- 👀 I’m interested in data science and analytics
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me https://www.linkedin.com/in/satya-vivek-jaiswal/
 
